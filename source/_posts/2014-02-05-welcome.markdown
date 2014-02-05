@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Welcome"
+date: 2014-02-05 14:32:26 -0500
+comments: true
+categories: 
+---
+
+Not much here yet but stay tuned for information on starting a distillery in Michigan along with more normal farming adventures.
